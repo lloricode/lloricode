@@ -15,7 +15,7 @@ class About
         return 'Lloric Mayuga Garcia';
     }
     
-    public static function greetings()
+    public static function greetings(): string
     {
         return 'I\'m Lloric, a backend developer using laravel and lumen who love to discover new things.';
     }
