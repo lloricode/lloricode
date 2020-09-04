@@ -1,4 +1,3 @@
-### Hi there :wave:
 
 [![Linkedin: lloricgarcia](https://img.shields.io/badge/-lloricgarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lloricgarcia/)](https://www.linkedin.com/in/lloricgarcia/)
 [![GitHub lloricode](https://img.shields.io/github/followers/lloricode?label=follow&style=social)](https://github.com/lloricode)
@@ -24,8 +23,8 @@ class About
     public static function target(): array
     {
         return [
-            'rocket I’m currently working on my project Lumen Boilerplate.',
-            'mag I’m looking to collaborate on PHP projects.',
+            'I’m currently working on my project Lumen Boilerplate.',
+            'I’m looking to collaborate on PHP projects.',
         ];
     }
 }
