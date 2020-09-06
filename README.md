@@ -30,3 +30,4 @@ class About
 }
 ```
 
+<a href="https://github.com/lloricode"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=lloricode&show_icons=true" /></a>
