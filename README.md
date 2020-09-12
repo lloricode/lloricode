@@ -30,4 +30,6 @@ class About
 }
 ```
 
-<a href="https://github.com/lloricode"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=lloricode&show_icons=true" /></a>
+[![Lloric's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lloricode&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lloricode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
