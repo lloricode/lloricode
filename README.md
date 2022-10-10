@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Lloric Mayuga Garcia</h1>
 
-<h3>A backend developer using laravel and lumen who love to discover new things.</h3>
+<h3>A backend developer using laravel who love to discover new things.</h3>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloricode&layout=compact&hide=html" alt="lloricode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloricode&layout=compact&hide=html" alt="lloricode" /></p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lloricode&show_icons=true" alt="lloricode" /></p>
 
