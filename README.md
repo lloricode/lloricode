@@ -28,13 +28,13 @@ Data is from [WakaTime](https://wakatime.com), a [PHPStorm](https://www.jetbrain
 
 ## Support
 
-You can support me by [buying one of my paid products](https://lloricode.gumroad.com/).
+You can support my work by [buying one of my paid products](https://lloricode.gumroad.com/).
 
 Thank you for visiting my profile! 😊
 
 ## Useful Tools
 
-Support me via Tinkerwell referral:
+Support my work via Tinkerwell referral:
 
 <p align="left">
     <a href="https://tinkerwell.app/ref/QPxLONb3qb">
