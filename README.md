@@ -20,6 +20,12 @@ I am a backend developer specializing in Laravel. I love to explore new technolo
     <img src="https://komarev.com/ghpvc/?username=lloricode&color=blue" alt="Profile Views" />
 </p>
 
+## Coding Activity
+
+Data is from [WakaTime](https://wakatime.com), a [PHPStorm](https://www.jetbrains.com/phpstorm/) plugin:
+
+[![WakaTime](https://wakatime.com/share/@lloricode/d17684e8-1308-4d34-b4a6-02240573c93b.png)](https://wakatime.com/)
+
 ## Support
 
 You can support me by [buying one of my paid products](https://lloricode.gumroad.com/).
